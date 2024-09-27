@@ -1,0 +1,24 @@
+link:https://bilosto.onrender.com
+1.interpolation/one-way binding (implementirano u "src/views/HomeView.vue" linija 23,linija 21, linija 16)
+2.two-way binding (implementirano u "src/views/HomeView.vue" linija 9,10 i  19)
+3.methods (implementirano u "src/views/HomeView.vue" linija 40 i 46)
+4.computed properties (implementirano u "src/views/HomeView.vue" linija 21)
+5.barem jedan scoped style (implementirano u "src/views/HomeView.vue" linija 51 do 65)
+6.koristiti barem jedan lifecycle hook nije implementirano 
+7.routing (više stranica) implementirano u "src/router/index.js" i u "src/App.vue"
+   aplikacija mora biti bookmarkable, tako da rade linkovi (ne samo na root, već i moj-web.com/stranica1, moj-web.com/stranica2)
+   dinamičko usmjeravanje s 404 stranicom ("catch all") (implementirano u klasi "src/router/index.js" linije 20-23)
+8.(barem) dvije komponente
+    komponenta bez stanja, koristiti properties implementirano u "src/components/Motivation.vue"
+    komponenta sa stanjem  nije implementirano 
+9.barem jedna komponenta mora emitirati barem jedan event nije implementirano 
+10.store (Pinia) nije implementirano 
+11.asinkroni dohvat podataka s backenda, možete: nije implementirano 
+ koristiti Firebase ili Back4App, Mocky, itd.
+ vlastiti storage, ili
+ možete mock napraviti, držati podatke u memoriji, ali mora biti asinkroni poziv/upis
+ ostvariti asinkrono (lazy, po potrebi) učitavanje nekog dijela aplikacije (stranice ili komponente)
+
+
+
+
